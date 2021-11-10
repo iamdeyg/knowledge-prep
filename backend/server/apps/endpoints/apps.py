@@ -2,4 +2,5 @@ from django.apps import AppConfig
 
 
 class EndpointsConfig(AppConfig):
-    name = 'endpoints'
+    'django.db.models.AutoField'
+    name = 'apps.endpoints'
